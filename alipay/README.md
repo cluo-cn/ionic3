@@ -24,3 +24,4 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+Pay Server Code:https://github.com/cluo-cn/java/tree/master/alipay.trade.wap.pay-java-utf-8
