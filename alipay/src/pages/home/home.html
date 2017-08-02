@@ -1,0 +1,14 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <button (click)="getData()" ion-button>Get Data</button>
+  <button (click)="goToPay()" ion-button>Go To Pay</button>
+  <ion-input [(ngModel)]="url"></ion-input>
+  {{html}}
+</ion-content>
